@@ -1,70 +1,62 @@
 <div align="center">
 
-# 👋 Hi there, I'm Shree!
-### Full-Stack Developer & Cloud / Bot Systems Architect
+# 👋 Hey, I'm Shree!
 
-[![Discord](https://img.shields.io/badge/Discord-shree.ltc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1465912900710305822)
-[![GitHub Followers](https://img.shields.io/github/followers/shree-ltc?label=Follow&style=for-the-badge&color=24292e&logo=github)](https://github.com/shree-ltc)
+**Developer • Discord Bot Builder • Cloud & Systems Tinkerer**
+
+Welcome to my GitHub! I love building fast, reliable tools—from Discord bots and security systems to cloud hosting panels and full-stack web apps.
 
 <br/>
 
-<!-- Live Discord Presence via Lanyard -->
+<!-- Discord Contact Buttons & Status -->
 <a href="https://discord.com/users/1465912900710305822">
-  <img src="https://lanyard.cnrad.dev/api/1465912900710305822?theme=dark&borderRadius=10px&idleMessage=Offline" alt="Discord Status" />
+  <img src="https://img.shields.io/badge/Chat_on_Discord-shree.ltc-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://github.com/shree-ltc?tab=followers">
+  <img src="https://img.shields.io/github/followers/shree-ltc?label=Follow&style=for-the-badge&color=21262d&logo=github" alt="Follow" />
+</a>
+
+<br/><br/>
+
+<a href="https://discord.com/users/1465912900710305822">
+  <img src="https://lanyard.cnrad.dev/api/1465912900710305822?theme=dark&borderRadius=12px&idleMessage=Currently%20offline%20or%20away" alt="Live Discord Status" />
 </a>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### ☕ A Little Bit About Me
 
-- 💻 **Core Focus**: Developing high-performance Discord bots, hosting infrastructure, and full-stack web applications.
-- 🛠️ **Current Projects**:
-  - Cloud virtualization & VPS control panels (Next.js, Prisma, Docker).
-  - Scalable Discord security, moderation, and ticketing frameworks (Python / asyncio).
-- 💬 **Discord**: Feel free to DM me at [`shree.ltc`](https://discord.com/users/1465912900710305822).
-- ⚡ **Fun Fact**: Obsessed with building snappy UIs and low-latency backend systems.
+I'm a self-driven developer who enjoys solving real-world problems with clean code. Most of my days are spent tinkering with backend architectures, automating server workflows, and crafting smooth user experiences.
 
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### **Frontend & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-#### **Databases & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- 🔭 **What I’m working on:** Modern VPS control panels, virtualization tools, and high-performance Discord bots.
+- ⚡ **What I care about:** Fast response times, clean system architecture, and tools that "just work".
+- 💬 **Let's talk:** Got a project in mind, need help with bot infrastructure, or just want to chat? Reach out on Discord at **`shree.ltc`** (User ID: `1465912900710305822`).
+- 🪙 **Other interests:** Linux server administration, self-hosting, and crypto systems.
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tech & Tools I Love Using
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shree-ltc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shree's GitHub Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,nodejs,fastapi,prisma,tailwind,postgres,redis,docker,linux,git&perline=7" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+* **Languages:** Python (Asyncio / Bot frameworks), TypeScript, JavaScript, Bash, SQL
+* **Web & Frameworks:** Next.js, React, Node.js, FastAPI, Prisma ORM, Tailwind CSS
+* **Databases & DevOps:** PostgreSQL, Redis, Docker, Ubuntu Linux, PM2, Git
+
+---
+
+### 📊 My GitHub Journey
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shree-ltc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shree's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree-ltc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
@@ -77,5 +69,7 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/shree-ltc">shree-ltc</a> · Reach me on Discord: <b>shree.ltc</b></sub>
+  <sub>✨ <i>"Code is like humor. When you have to explain it, it's bad."</i> ✨</sub>
+  <br/>
+  <sub>Feel free to reach out anytime on Discord: <b>shree.ltc</b></sub>
 </div>
