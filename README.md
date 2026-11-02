@@ -14,6 +14,8 @@ Building scalable backend services, Discord automation systems, and modern virtu
 <a href="https://github.com/shree-ltc?tab=followers">
   <img src="https://img.shields.io/github/followers/shree-ltc?label=Followers&style=flat-square&color=21262d&logo=github" alt="Followers" />
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=shree-ltc&style=flat-square&color=5865F2&label=Profile+Views" alt="Profile Views" />
 
 <br/><br/>
 
@@ -52,29 +54,20 @@ Software developer focused on architecting and deploying resilient backend servi
 
 ---
 
-### GitHub Statistics
+### Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shree-ltc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree-ltc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="assets/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shree-ltc&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-</div>
-
----
-
-### Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shree-ltc/shree-ltc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shree-ltc/shree-ltc/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shree-ltc/shree-ltc/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=shree-ltc&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
 </div>
 
 ---
