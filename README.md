@@ -1,43 +1,42 @@
 <div align="center">
 
-# 👋 Hey, I'm Shree!
+# Shree
+**Software Developer • Systems & Infrastructure**
 
-**Developer • Discord Bot Builder • Cloud & Systems Tinkerer**
-
-Welcome to my GitHub! I love building fast, reliable tools—from Discord bots and security systems to cloud hosting panels and full-stack web apps.
+Building scalable backend services, Discord automation systems, and modern virtualization control panels.
 
 <br/>
 
-<!-- Discord Contact Buttons & Status -->
 <a href="https://discord.com/users/1465912900710305822">
-  <img src="https://img.shields.io/badge/Chat_on_Discord-shree.ltc-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-shree.ltc-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 </a>
+&nbsp;
 <a href="https://github.com/shree-ltc?tab=followers">
-  <img src="https://img.shields.io/github/followers/shree-ltc?label=Follow&style=for-the-badge&color=21262d&logo=github" alt="Follow" />
+  <img src="https://img.shields.io/github/followers/shree-ltc?label=Followers&style=flat-square&color=21262d&logo=github" alt="Followers" />
 </a>
 
 <br/><br/>
 
+<!-- Live Discord Presence -->
 <a href="https://discord.com/users/1465912900710305822">
-  <img src="https://lanyard.cnrad.dev/api/1465912900710305822?theme=dark&borderRadius=12px&idleMessage=Currently%20offline%20or%20away" alt="Live Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/1465912900710305822?theme=dark&borderRadius=8px&idleMessage=Offline" alt="Discord Status" />
 </a>
 
 </div>
 
 ---
 
-### ☕ A Little Bit About Me
+### Overview
 
-I'm a self-driven developer who enjoys solving real-world problems with clean code. Most of my days are spent tinkering with backend architectures, automating server workflows, and crafting smooth user experiences.
+Software developer focused on architecting and deploying resilient backend services, bot frameworks, and web-based infrastructure control panels. Core technical interests include distributed systems, server virtualization, and low-latency network applications.
 
-- 🔭 **What I’m working on:** Modern VPS control panels, virtualization tools, and high-performance Discord bots.
-- ⚡ **What I care about:** Fast response times, clean system architecture, and tools that "just work".
-- 💬 **Let's talk:** Got a project in mind, need help with bot infrastructure, or just want to chat? Reach out on Discord at **`shree.ltc`** (User ID: `1465912900710305822`).
-- 🪙 **Other interests:** Linux server administration, self-hosting, and crypto systems.
+* **Primary Focus:** Virtualization management panels (Next.js, Prisma, Docker) and scalable Discord automation frameworks.
+* **Engineering Principles:** Clean system architecture, robust error handling, and high-availability operations.
+* **Direct Contact:** Available on Discord at **`shree.ltc`** (User ID: `1465912900710305822`).
 
 ---
 
-### 🧰 Tech & Tools I Love Using
+### Technologies & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -47,16 +46,16 @@ I'm a self-driven developer who enjoys solving real-world problems with clean co
 
 <br/>
 
-* **Languages:** Python (Asyncio / Bot frameworks), TypeScript, JavaScript, Bash, SQL
-* **Web & Frameworks:** Next.js, React, Node.js, FastAPI, Prisma ORM, Tailwind CSS
-* **Databases & DevOps:** PostgreSQL, Redis, Docker, Ubuntu Linux, PM2, Git
+* **Languages:** Python (Asyncio), TypeScript, JavaScript, Bash, SQL
+* **Frameworks & Libraries:** Next.js, React, Node.js, FastAPI, Prisma ORM, Tailwind CSS
+* **Infrastructure & Storage:** PostgreSQL, Redis, Docker, Ubuntu Linux, Nginx, PM2, Git
 
 ---
 
-### 📊 My GitHub Journey
+### GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shree-ltc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shree's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shree-ltc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree-ltc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
@@ -69,7 +68,5 @@ I'm a self-driven developer who enjoys solving real-world problems with clean co
 ---
 
 <div align="center">
-  <sub>✨ <i>"Code is like humor. When you have to explain it, it's bad."</i> ✨</sub>
-  <br/>
-  <sub>Feel free to reach out anytime on Discord: <b>shree.ltc</b></sub>
+  <sub>Contact: Discord <b>shree.ltc</b> · GitHub <b>shree-ltc</b></sub>
 </div>
