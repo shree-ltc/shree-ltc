@@ -40,7 +40,7 @@ Software developer focused on architecting and deploying resilient backend servi
 
 ### Featured Open-Source Projects
 
-* **[Zenith](https://github.com/shree-ltc/zenith)** — High-performance Discord security, governance & server automation system with real-time audit log antinuke protection, automod, tickets, join-to-create tempvc, and virtual economy.
+* **[Zenith](https://github.com/shree-ltc/zenith)** — Enterprise Discord security architecture and server automation suite (504 commands) with an integrated real-time web dashboard & control plane, zero-latency audit antinuke protection, automod filter matrix, and privilege escalation guards.
 
 ---
 
